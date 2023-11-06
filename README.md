@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://opgc.me/#/users/beefegg" target="_blank"><img src="https://api.opgc.me/githubs/users/beefegg/tag/?theme=rainbow" /></a>
+<a href="https://opgc.me/#/users/beefegg" target="_blank"><img src="https://api.opgc.me/githubs/users/beefegg/tag/?theme=prism" /></a>
 
 <!--
 **beefegg/beefegg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
